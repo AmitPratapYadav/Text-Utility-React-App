@@ -1,0 +1,11 @@
+.Main{
+    width: 50px;
+    height: 50px;
+}
+
+.heading{
+     display: inline-block;
+    border-bottom: 5px solid #0984e3;
+    padding-bottom: 5px;
+
+}
